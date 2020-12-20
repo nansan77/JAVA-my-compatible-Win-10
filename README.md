@@ -1,0 +1,1 @@
+JAVA 11 added and compatible (совместим) with IDEA Pad L340 Windows 10 pro
